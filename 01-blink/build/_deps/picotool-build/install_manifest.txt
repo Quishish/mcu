@@ -1,7 +1,0 @@
-C:/study/ant-mcu/pico/mcu/01-blink/build/_deps/picotool/picotool.exe
-C:/study/ant-mcu/pico/mcu/01-blink/build/_deps/picotool/picotoolTargets.cmake
-C:/study/ant-mcu/pico/mcu/01-blink/build/_deps/picotool/picotoolTargets-release.cmake
-C:/study/ant-mcu/pico/mcu/01-blink/build/_deps/picotool/picotoolConfig.cmake
-C:/study/ant-mcu/pico/mcu/01-blink/build/_deps/picotool/picotoolConfigVersion.cmake
-C:/study/ant-mcu/pico/mcu/01-blink/build/_deps/picotool/enc_bootloader.elf
-C:/study/ant-mcu/pico/mcu/01-blink/build/_deps/picotool/enc_bootloader_mbedtls.elf

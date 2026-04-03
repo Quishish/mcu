@@ -1,2 +1,0 @@
-C:/study/ant-mcu/pico/mcu/01-blink/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/edit_cache.dir
-C:/study/ant-mcu/pico/mcu/01-blink/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/rebuild_cache.dir
