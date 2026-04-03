@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/study/ant-mcu/pico/mcu/01-blink/build/_deps/picotool-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
